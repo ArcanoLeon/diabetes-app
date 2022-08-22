@@ -1,0 +1,7 @@
+{
+  "name": "diabetes-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
